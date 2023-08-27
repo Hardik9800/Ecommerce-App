@@ -19,4 +19,6 @@ We have used the following service to create a dummy ecommerce api service (crea
 - Give button to add a product to cart
 - Cart page
 - Show all the items in the cart
+![Screenshot (382)](https://github.com/Hardik9800/Ecommerce-App/assets/51282682/d7ea980b-d394-4760-88db-6ef29adec0dd)
 
+![Screenshot (381)](https://github.com/Hardik9800/Ecommerce-App/assets/51282682/b84f406c-e06f-4d63-a1da-00ad15bb7c3f)
