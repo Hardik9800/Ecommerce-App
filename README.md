@@ -22,3 +22,24 @@ We have used the following service to create a dummy ecommerce api service (crea
 ![Screenshot (382)](https://github.com/Hardik9800/Ecommerce-App/assets/51282682/d7ea980b-d394-4760-88db-6ef29adec0dd)
 
 ![Screenshot (381)](https://github.com/Hardik9800/Ecommerce-App/assets/51282682/b84f406c-e06f-4d63-a1da-00ad15bb7c3f)
+
+### Technologies
+
+# React
+
+React is a popular JavaScript library used for building user interfaces. It allows for the creation of reusable UI components and provides a declarative way to build complex UIs.
+
+# API
+
+An API (Application Programming Interface) is a way for different software applications to communicate with each other. In this case, the React Todo List app is using an API to store and retrieve tasks (Its a Fake apI).
+
+
+# Install the required packages.
+
+### `npm install`
+
+# Run
+
+### `npm start`
+
+Open the app in your web browser at http://localhost:3000.
