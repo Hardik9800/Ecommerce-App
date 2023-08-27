@@ -3,7 +3,7 @@
 the frontend for an ecommerce website.
 We have used the following service to create a dummy ecommerce api service (create good amount of data): https://my-json-server.typicode.com/
 # Functionality
-##Navbar
+## Navbar
 - Show cart items count
 - Show relevant navigation links
 ## All products page
